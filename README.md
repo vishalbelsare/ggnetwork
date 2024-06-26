@@ -17,7 +17,7 @@ Status](https://ci.appveyor.com/api/projects/status/github/briatte/ggnetwork?bra
 [![CRAN
 status](https://www.r-pkg.org/badges/version-ago/ggnetwork)](https://cran.r-project.org/package=ggnetwork)
 [![CRAN checks
-(worst)](https://cranchecks.info/badges/worst/ggnetwork)](https://cran.r-project.org/web/checks/check_results_ggnetwork.html)
+(worst)](https://badges.cranchecks.info/worst/ggnetwork.svg)](https://cran.r-project.org/web/checks/check_results_ggnetwork.html)
 [![CRAN total
 downloads](https://cranlogs.r-pkg.org/badges/grand-total/ggnetwork)](https://cran.r-project.org/package=ggnetwork)
 <!-- badges: end -->
@@ -48,13 +48,13 @@ The `ggnetwork` package depends on **R 3.5+** and on `ggplot2` version
 
 ## Documentation
 
-  - The [package vignette](https://briatte.github.io/ggnetwork/)
-    contains detailed examples of how to use its `fortify` method and
-    each of its geometries.
-  - The [package
-    website](https://briatte.github.io/ggnetwork/articles/ggnetwork.html)
-    has more information and a list of [all package
-    functions](https://briatte.github.io/ggnetwork/reference/index.html).
+- The [package vignette](https://briatte.github.io/ggnetwork/) contains
+  detailed examples of how to use its `fortify` method and each of its
+  geometries.
+- The [package
+  website](https://briatte.github.io/ggnetwork/articles/ggnetwork.html)
+  has more information and a list of [all package
+  functions](https://briatte.github.io/ggnetwork/reference/index.html).
 
 For further examples that use `ggnetwork` with other packages to produce
 animated graphs, see James Curley’s slides on “[Interactive and Dynamic
@@ -143,7 +143,7 @@ its predecessor, the `ggnet` package, which also benefitted from
 discussions with [@pedroj](https://github.com/pedroj) and Bertrand
 Sudre.
 
------
+------------------------------------------------------------------------
 
 Please note that this project is released with a [Contributor Code of
 Conduct](.github/CODE_OF_CONDUCT.md).  
